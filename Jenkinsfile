@@ -14,5 +14,6 @@ stage('Run image'){
     sh 'docker ps'
     sh 'curl locathost'
 
-  }
+   }
+ }
 }
